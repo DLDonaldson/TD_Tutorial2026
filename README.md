@@ -17,6 +17,8 @@ This github repository contains the information associated with the IEEE Transmi
 
 - **Part 5**: Strategies for adaptation and mitigation
 
+Link for online python notebooks in jupyter: https://dldonaldson.github.io/TD_Tutorial2026/lab/index.html
+
 ### Contributors:
 Daniel L. Donaldson - University of Birmingham 
 
